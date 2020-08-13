@@ -1,4 +1,4 @@
-# Dell-Vostor-7500-OpenCore-EFI
+# Dell-Vostro-7500-OpenCore-EFI
 ## 戴尔成就V7500黑苹果EFI，使用OC引导
 
 
